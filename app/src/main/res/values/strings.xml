@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">R&amp;S IP Rules</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="ipn_bs">
+        <item>BS Number</item>
+        <item>IPN Number</item>
+    </string-array>
+
+    <string-array name="equList">
+        <item>BSCU 1</item>
+        <item>BSCU 2</item>
+        <item>CHU 1</item>
+        <item>CHU 2</item>
+        <item>CHU 3</item>
+        <item>CHU 4</item>
+        <item>CHU 5</item>
+        <item>CHU 6</item>
+        <item>CHU 7</item>
+        <item>CHU 8</item>
+        <item>Cavity Combiner</item>
+    </string-array>
+
+    <string-array name="ipnList">
+        <item>SCN</item>
+        <item>DVRS</item>
+        <item>DWS</item>
+        <item>NDB</item>
+        <item>NMS-Client1</item>
+        <item>NMS-Client2</item>
+        <!--<item>NMS-Client3</item>-->
+        <item>DVRS-Client</item>
+        <item>DWS-Client</item>
+        <item>IP Switch</item>
+    </string-array>
+</resources>
+
+
